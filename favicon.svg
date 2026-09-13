@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="34" fill="#eef2f3"/>
+  <path d="M18 34h220M18 222h220M34 18v220M222 18v220" stroke="#8aa0a8" stroke-width="2" stroke-dasharray="5 5" opacity=".65"/>
+  <g fill="#78909a" font-family="monospace" font-size="20" font-weight="700" opacity=".9">
+    <text x="14" y="30">{}</text><text x="202" y="30">{}</text>
+    <text x="8" y="74">&lt;</text><text x="218" y="74">&gt;</text>
+    <text x="28" y="60">+ - x /</text><text x="150" y="60">=010101</text>
+    <text x="22" y="91">10101</text><text x="166" y="91">01101</text>
+    <text x="22" y="118">10101</text><text x="170" y="118">01011</text>
+    <text x="8" y="150">+ -</text><text x="210" y="150">x /</text>
+    <text x="20" y="180">1010</text><text x="174" y="180">0101</text>
+    <text x="9" y="218">&lt; &gt; x</text><text x="208" y="218">+ -</text>
+  </g>
+  <path d="M82 111V87c0-26 20-46 46-46s46 20 46 46v24" fill="none" stroke="#34794d" stroke-width="16"/>
+  <rect x="53" y="105" width="150" height="105" rx="18" fill="#2f7045"/>
+  <circle cx="128" cy="157" r="31" fill="#9bc5a6" opacity=".85"/>
+  <path d="M128 132v50M103 157h50M110 139l36 36M146 139l-36 36" stroke="#5a9270" stroke-width="8"/>
+  <circle cx="128" cy="157" r="13" fill="#2f7045"/>
+  <text x="114" y="163" fill="#b8d6bd" font-family="monospace" font-size="12" font-weight="700">S*K</text>
+  <text x="128" y="237" text-anchor="middle" fill="#17303a" font-family="monospace" font-size="16" font-weight="700">PROMPT HEIST</text>
+</svg>
